@@ -14,4 +14,4 @@ To actually extract the file PLEASE use [Ez-Extractor](https://github.com/Drixxy
 
 | Quantum Downloader | Download Link |
 |-------------------|----------------|
-| V00.00.06 | [Download](tbd)
+| V00.00.06 | Not Public yet.
